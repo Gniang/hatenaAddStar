@@ -10,10 +10,10 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://nodejs.org/ja/"},
+    "url": "https://github.com/Gniang/hatenaAddStar"
+  },
   "dependencies": {
     "cheerio-httpcli": "^0.7.3",
-    "request": "^2.88.0",
-    "rss-parser": "^3.6.0"
+    "request": "^2.88.0"
   }
 }
