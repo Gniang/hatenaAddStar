@@ -126,8 +126,8 @@ async function main() {
     // debug
     if(false){
         // はてなのユーザー名とパスワードを設定する
-        USER_NAME = "gng21";
-        PASSWORD = "Ky3xM4z94Fwe8Dc"
+        USER_NAME = "";
+        PASSWORD = ""
 
         // Google検索で絞込したい単語があれば入力
         KEYWORD = "";

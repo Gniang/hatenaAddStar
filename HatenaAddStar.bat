@@ -3,9 +3,9 @@
 
 
 @REM はてなユーザ名
-@set USER=gng21
+@set USER=name
 @REM はてなパスワード
-@set PASS=Ky3xM4z94Fwe8Dc
+@set PASS=pass
 
 @REM 星をつけるサイト数
 @set NUM=10
