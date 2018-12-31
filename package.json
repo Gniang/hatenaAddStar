@@ -8,6 +8,9 @@
   },
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://nodejs.org/ja/"},
   "dependencies": {
     "cheerio-httpcli": "^0.7.3",
     "request": "^2.88.0",
