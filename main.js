@@ -136,7 +136,7 @@ async function main() {
 
 
 
-    // const testURL = "https://program-shoshinsya.hatenablog.com/entry/2018/12/30/223923"
+    // const testURL = ""
     // await addStar(testURL);
 
     var logErrCall = (err) => { };
